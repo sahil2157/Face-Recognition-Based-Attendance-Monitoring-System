@@ -51,6 +51,6 @@ An advanced **attendance tracking system** that uses **facial recognition techno
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo, submit issues, and open pull requests.
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License – free to use and modify.
 
